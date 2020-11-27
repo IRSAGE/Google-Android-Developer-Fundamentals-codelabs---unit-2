@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Context Menu ScrollingText</string>
+    <string name="article_title"><b>Political News</b></string>
+    <string name="article_subtitle"><b>Perezida Kagame yayoboye inama y’abaminisitiri yitezweho gusuzuma ingamba zo kurwanya COVID-19</b></string>
+    <string name="article_text">Iyi nama yateraniye muri Village Urugwiro, yabaye mu gihe imibare y’abandura Coronavirus igenda izamuka, ahanini abandura bakaba biganje muri za gereza no mu nkambi z’impunzi.
+
+Inama iheruka yabaye ku wa 11 Ugushyingo 2020, uwo munsi urangira u Rwanda rufite abanduye 5312, ariko abari bakirwaye bari 297 kuko 94% by’abanduye bose bari bamaze gukira, mu gihe abitabye Imana bari 41.
+
+Nyuma y’ibyumweru bibiri abanduye bose hamwe bamaze kugera ku 5851, umubare w’abakirwaye na wo warazamutse kuko bageze kuri 459, mu gihe abapfuye bamaze kuba 47. Ijanisha ry’abakize ryaramanutse, ubu ni 91.3%.
+
+Iyi nama yateranye mu gihe ibikorwa byinshi by’ubukungu bukomeje kugenda bisubira ku murongo ndetse biheruka gutangazwa ko u Rwanda rugiye gutangira kwifashisha imbwa mu gutahura abanduye COVID-19, nk’uburyo buzunganira ubundi mu gusuzuma iki cyorezo mu bantu benshi.
+
+Inama y’Abaminisitiri iheruka yasuzumye ingamba zafashwe mu gukumira ikwirakwira rya COVID-19, yemeza ko zikomeza gukurikizwa, harimo kuba ingendo zibujijwe guhera saa Yine z’ijoro kugeza saa Kumi za mu gitondo.
+
+Yongeye kwibutsa abaturage kubahiriza amabwiriza yo kwirinda arimo gusiga intera hagati y’umuntu n’undi, kwambara agapfukamunwa no gukaraba intoki, abatabyubahiriza bagafatirwa ibihano.
+
+Mu gihe inkingo nyinshi zikomeje gutanga icyizere ko zishobora kurinda abantu COVID-19, Minisitiri w’Ubuzima, Dr Ngamije Daniel, aherutse gutangaza ko kugeza ubu uretse kuba u Rwanda ruri muri gahunda ya COVAX, igamije kuzorohereza ibihugu kugerwaho n’urukingo ubwo ruzaba rubonetse, ruri no mu bikorwa bitandukanye bigamije kuzarufasha kugerwaho n’urukingo vuba.
+
+Ati “Turi mu bikorwa bitandukanye birimo gushyikiriza ku mugaragaro ubusabe bw’inkingo, twifashishije inyandiko zateguwe ku buryo buri gihugu gisobanura inkingo gishaka ndetse n’uko zizakoreshwa.”
+
+“Iyo nyandiko turayifite, dufite itariki ntarengwa ya 7 Ukuboza kugira ngo tube twayujuje twanayohereje, tuyigeze kure mu minsi nk’ibiri itatu, tuzaba twamaze kuyuzuza no kuyitanga.”
+
+Kuri ubu hari inkingo eshatu zamaze kugaragaza ko zitanga icyizere cyo guhangara COVID-19, harimo urukingo rwa Pfizer ifatanyije na BioNTech, urwa Moderna n’urwa AstraZeneca. Mu gihe haba hagize urwemezwa bidasubirwaho, u Rwanda rwiteguye kurwakira.</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="edit_message">Edit choice clicked.</string>
+    <string name="share_message">Share choice clicked.</string>
+    <string name="delete_message">Delete choice clicked.</string>
+</resources>
